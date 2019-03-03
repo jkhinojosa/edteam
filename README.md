@@ -1,5 +1,5 @@
 ![Edteam Logo](./assets/logo.svg)
-![prueba](https://1drv.ms/u/s!AjkULjY8alaJap_H-aZ6491D6g0)
+![prueba](https://1drv.ms/u/s!AjkULjY8alaJap_H-aZ6491D6g0/prueba.png)
 
 ```Resume of all learning into edteam platform```
 
