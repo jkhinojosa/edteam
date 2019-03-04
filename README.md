@@ -120,6 +120,27 @@ Que hay entre las entidades y la unión entre las mismas
 
 Para BigData debemos trabajar con MongoDB
 
-#Flujo de trabajo con git
+# Flujo de trabajo con git
 
+> git init . inicia un repositorio en la carpeta actual
+
+[Untraked] - [Unmodified] - [Modified] - [Staged]
+
+[Untraked] ------ Add File ------> [Staged]
+[Unmodified] ---- Edit the File ----> Stage the file
+[Modified]
+[Untraked] <---- Remove the file ----[Unmodified]
+[Unmodified] <---- Commit ----- [Staged]
+
+> git add . Agrega un archivo a la zona de preparacion
+
+> git commit . Confirma los archivos preparados
+
+> .gitignore . patrones de nombres de archivos que git ignorara 
+
+> git log . muestra el historial de confirmaciones
+
+
+Metodologia de trabajo
+Cuando van hacer un push, es primero hacer un pull antes de un push
 
